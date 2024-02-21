@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Proushoth
 - 👀 I’m interested in learning new technology
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning Machine Learning 
 
 
 
